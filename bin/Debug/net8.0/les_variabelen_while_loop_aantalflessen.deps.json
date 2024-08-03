@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "les_variabelen_while_loop_aantalflessen/1.0.0": {
+        "runtime": {
+          "les_variabelen_while_loop_aantalflessen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "les_variabelen_while_loop_aantalflessen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
